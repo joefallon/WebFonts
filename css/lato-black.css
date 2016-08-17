@@ -1,0 +1,18 @@
+/* lato-black.css */
+
+/* BEGIN Black */
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Black.eot?v=1.0.0");
+    src: url("../fonts/Lato-Black.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/Lato-Black.woff2?v=1.0.0") format("woff2"), url("../fonts/Lato-Black.woff?v=1.0.0") format("woff"), url("../fonts/Lato-Black.ttf?v=1.0.0") format("truetype"), url("../fonts/Lato-Black.svg?v=1.0.0#LatoBlack") format("svg");
+    font-weight: 900;
+    font-style: normal; }
+/* END Black */
+/* BEGIN Black Italic */
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-BlackItalic.eot?v=1.0.0");
+    src: url("../fonts/Lato-BlackItalic.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/Lato-BlackItalic.woff2?v=1.0.0") format("woff2"), url("../fonts/Lato-BlackItalic.woff?v=1.0.0") format("woff"), url("../fonts/Lato-BlackItalic.ttf?v=1.0.0") format("truetype"), url("../fonts/Lato-BlackItalic.svg?v=1.0.0#LatoBlackItalic") format("svg");
+    font-weight: 900;
+    font-style: italic; }
+/* END Black Italic */

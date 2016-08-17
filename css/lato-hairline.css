@@ -1,0 +1,18 @@
+/* lato-hairline.css */
+
+/* BEGIN Hairline */
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Hairline.eot?v=1.0.0");
+    src: url("../fonts/Lato-Hairline.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/Lato-Hairline.woff2?v=1.0.0") format("woff2"), url("../fonts/Lato-Hairline.woff?v=1.0.0") format("woff"), url("../fonts/Lato-Hairline.ttf?v=1.0.0") format("truetype"), url("../fonts/Lato-Hairline.svg?v=1.0.0#LatoHairline") format("svg");
+    font-weight: 100;
+    font-style: normal; }
+/* END Hairline */
+/* BEGIN Hairline Italic */
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-HairlineItalic.eot?v=1.0.0");
+    src: url("../fonts/Lato-HairlineItalic.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/Lato-HairlineItalic.woff2?v=1.0.0") format("woff2"), url("../fonts/Lato-HairlineItalic.woff?v=1.0.0") format("woff"), url("../fonts/Lato-HairlineItalic.ttf?v=1.0.0") format("truetype"), url("../fonts/Lato-HairlineItalic.svg?v=1.0.0#LatoHairlineItalic") format("svg");
+    font-weight: 100;
+    font-style: italic; }
+/* END Hairline Italic */

@@ -1,0 +1,9 @@
+/* roboto-medium.css */
+
+/* BEGIN Medium */
+@font-face {
+    font-family: Roboto;
+    src: url("../fonts/Roboto-Medium.woff2?v=1.1.0") format("woff2"), url("../fonts/Roboto-Medium.woff?v=1.1.0") format("woff"), url("../fonts/Roboto-Medium.ttf?v=1.1.0") format("truetype");
+    font-weight: 500;
+    font-style: normal; }
+/* END Medium */

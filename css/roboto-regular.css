@@ -1,0 +1,14 @@
+/* roboto-regular.css */
+
+/* BEGIN Regular */
+@font-face {
+    font-family: Roboto;
+    src: url("../fonts/Roboto-Regular.woff2?v=1.1.0") format("woff2"), url("../fonts/Roboto-Regular.woff?v=1.1.0") format("woff"), url("../fonts/Roboto-Regular.ttf?v=1.1.0") format("truetype");
+    font-weight: 400;
+    font-style: normal; }
+@font-face {
+    font-family: Roboto;
+    src: url("../fonts/Roboto-Regular.woff2?v=1.1.0") format("woff2"), url("../fonts/Roboto-Regular.woff?v=1.1.0") format("woff"), url("../fonts/Roboto-Regular.ttf?v=1.1.0") format("truetype");
+    font-weight: normal;
+    font-style: normal; }
+/* END Regular */

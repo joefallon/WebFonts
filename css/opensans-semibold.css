@@ -1,0 +1,18 @@
+/* opensans-semibold.css */
+
+/* BEGIN Semibold */
+@font-face {
+    font-family: 'OpenSans';
+    src: url("../fonts/OpenSans-Semibold.eot?v=1.1.0");
+    src: url("../fonts/OpenSans-Semibold.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/OpenSans-Semibold.woff2?v=1.1.0") format("woff2"), url("../fonts/OpenSans-Semibold.woff?v=1.1.0") format("woff"), url("../fonts/OpenSans-Semibold.ttf?v=1.1.0") format("truetype"), url("../fonts/OpenSans-Semibold.svg?v=1.1.0#Semibold") format("svg");
+    font-weight: 600;
+    font-style: normal; }
+/* END Semibold */
+/* BEGIN Semibold Italic */
+@font-face {
+    font-family: 'OpenSans';
+    src: url("../fonts/OpenSans-SemiboldItalic.eot?v=1.1.0");
+    src: url("../fonts/OpenSans-SemiboldItalic.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/OpenSans-SemiboldItalic.woff2?v=1.1.0") format("woff2"), url("../fonts/OpenSans-SemiboldItalic.woff?v=1.1.0") format("woff"), url("../fonts/OpenSans-SemiboldItalic.ttf?v=1.1.0") format("truetype"), url("../fonts/OpenSans-SemiboldItalic.svg?v=1.1.0#SemiboldItalic") format("svg");
+    font-weight: 600;
+    font-style: italic; }
+/* END Semibold Italic */

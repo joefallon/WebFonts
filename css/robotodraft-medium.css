@@ -1,0 +1,9 @@
+/* robotodraft-medium.css */
+
+/* BEGIN Medium */
+@font-face {
+    font-family: RobotoDraft;
+    src: url("../fonts/RobotoDraft-Medium.woff2?v=1.0.0") format("woff2"), url("../fonts/RobotoDraft-Medium.woff?v=1.0.0") format("woff"), url("../fonts/RobotoDraft-Medium.ttf?v=1.0.0") format("truetype");
+    font-weight: 500;
+    font-style: normal; }
+/* END Medium */

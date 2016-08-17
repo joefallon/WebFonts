@@ -1,0 +1,18 @@
+/* lato-light.css */
+
+/* BEGIN Light */
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Light.eot?v=1.0.0");
+    src: url("../fonts/Lato-Light.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/Lato-Light.woff2?v=1.0.0") format("woff2"), url("../fonts/Lato-Light.woff?v=1.0.0") format("woff"), url("../fonts/Lato-Light.ttf?v=1.0.0") format("truetype"), url("../fonts/Lato-Light.svg?v=1.0.0#LatoLight") format("svg");
+    font-weight: 300;
+    font-style: normal; }
+/* END Light */
+/* BEGIN Light Italic */
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-LightItalic.eot?v=1.0.0");
+    src: url("../fonts/Lato-LightItalic.eot?#iefix&v=1.0.0") format("embedded-opentype"), url("../fonts/Lato-LightItalic.woff2?v=1.0.0") format("woff2"), url("../fonts/Lato-LightItalic.woff?v=1.0.0") format("woff"), url("../fonts/Lato-LightItalic.ttf?v=1.0.0") format("truetype"), url("../fonts/Lato-LightItalic.svg?v=1.0.0#LatoLightItalic") format("svg");
+    font-weight: 300;
+    font-style: italic; }
+/* END Light Italic */

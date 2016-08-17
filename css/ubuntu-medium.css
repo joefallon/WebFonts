@@ -1,0 +1,14 @@
+/* ubuntu-medium.css */
+
+/* BEGIN Ubuntu Medium */
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/ubuntu-medium-webfont.eot');
+    src: url('../fonts/ubuntu-medium-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/ubuntu-medium-webfont.woff') format('woff'),
+    url('../fonts/ubuntu-medium-webfont.ttf') format('truetype'),
+    url('../fonts/ubuntu-medium-webfont.svg#ubuntumedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+/* END Ubuntu Medium */
